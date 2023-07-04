@@ -1,0 +1,19 @@
+.Dom{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 0.5rem solid black;
+    height: 30rem;
+    width: 30rem;
+    /*background-color: aquamarine;*/
+    color: whitesmoke;
+    border-radius: 5%;
+
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: antiquewhite;
+}
